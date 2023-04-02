@@ -1,0 +1,7 @@
+[user]
+  name = Shiina
+  email = shiinayusuke01@gmail.com
+[alias]
+  lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[core]
+  editor = vim
